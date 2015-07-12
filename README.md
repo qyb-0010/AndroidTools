@@ -1,2 +1,2 @@
 # AndroidTools
-android common utils for developing
+android common utils FOR developing
